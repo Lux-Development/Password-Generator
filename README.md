@@ -1,6 +1,6 @@
 # Password Generator in C#
 
-![passwordgen_github](https://github.com/joelb-services/Password-Generator/assets/144958989/442b5e68-d8eb-44a9-a0be-b384d354935d)
+![passwordgen](https://github.com/joelb-services/Password-Generator/assets/144958989/4726b241-9261-4c2e-ab64-24cc9fac7704)
 
 Welcome to the Password Generator project, a versatile tool for creating strong and customizable passwords in C#. Safeguard your online accounts and sensitive information with ease.
 
